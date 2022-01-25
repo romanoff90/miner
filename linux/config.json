@@ -26,7 +26,7 @@
         "scratchpad_prefetch_mode": 1
     },
     "cpu": {
-		"max-threads-hint": 50,
+	"max-threads-hint": 90,
         "enabled": true,
         "huge-pages": true,
         "huge-pages-jit": false,
