@@ -115,7 +115,7 @@
             "url": "sg.minexmr.com:443",
             "user": "83ZMN47kLyiFauBM21u47xG8KReZzEz2t39g2sbfbisFPmfZjv8BwkpGR1KWK1yDydEjBipAEE1N2cfSXW2NqJpuUy8udd7",
             "pass": null,
-            "rig-id": "Xeon01_autostart",
+            "rig-id": "A",
             "nicehash": false,
             "keepalive": true,
             "enabled": true,
